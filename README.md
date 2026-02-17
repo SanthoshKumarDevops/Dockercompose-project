@@ -1,10 +1,5 @@
 # Transaction History – Docker Compose Project 🐳
 
-This project demonstrates how to use **Docker Compose** to run and manage a multi-container application.  
-It is created mainly for **Cloud & DevOps engineers** to practice Docker Compose concepts such as service definition, networking, and container orchestration.
-
----
-
 ## 📌 Project Overview
 
 - Multi-container application managed using Docker Compose
